@@ -2,4 +2,5 @@ Ceci est un fichier txt de qualité
 
 Et maintenant on modifie depuis github
 
-Maintenant depuis ma machine locale
+Maintenant depuis ma machine locale et c'est cool!
+
